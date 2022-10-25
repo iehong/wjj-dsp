@@ -1,0 +1,26 @@
+{
+  "name": "wjj-dsp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.10",
+    "cdnbye": "^1.20.0",
+    "hls.js": "^1.1.5",
+    "ioredis": "^4.28.5",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.49.9",
+    "sharp": "^0.30.1"
+  },
+  "devDependencies": {
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0"
+  }
+}
